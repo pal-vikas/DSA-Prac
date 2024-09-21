@@ -12,6 +12,7 @@ public class SwapArrayElement {
         System.out.println("After Swapping");
         System.out.println(Arrays.toString(arr));
     }
+    //This method is for swapping
     public static void swap(int[] arr, int a, int b) {
         int temp = arr[a];
         arr[a] = arr[b];
