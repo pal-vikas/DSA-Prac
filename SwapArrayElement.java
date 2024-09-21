@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class SwapArrayElement {
     public static void main(String[] args) {
 
+        System.out.println("Vikas Pal");
     int[] arr = {1,2,3,4,5,6};
         System.out.println("Before Swapping");
         System.out.println(Arrays.toString(arr));
